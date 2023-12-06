@@ -3,7 +3,7 @@
 
 ### API para manutenção do cadastro de Beneficiários
 
-natural-person foi desenvolvimento utilizando como arquitetura interna o modelo Hexagonal de cockburn ()
+natural-person foi desenvolvimento utilizando como arquitetura interna o modelo Hexagonal de cockburn ![Arquitetura Hexagonal](https://alistair.cockburn.us/hexagonal-architecture/)
 
 ![beneficiario-hexagonal.png](https://github.com/helsonsant/natural-person/blob/8fa5be84639445b85e5be2afe04a832d5c9b0c26/beneficiario-hexagonal.png)
 
