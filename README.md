@@ -5,6 +5,8 @@
 
 natural-person foi desenvolvimento utilizando como arquitetura interna o modelo Hexagonal de cockburn ()
 
+![beneficiario-hexagonal.png]
+
 O objetivo desta arquitetura é isolar a camada de domínio da aplicação das camadas de infraestrutura, tanto para acesso
 ao domínio da aplicação via HTTP Rest, neste caso, quanto para a camada de acesso a base de dados (H2).
 
